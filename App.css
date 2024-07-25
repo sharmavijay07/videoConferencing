@@ -1,0 +1,27 @@
+.homepage-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.homepage-container input {
+  font-size: 24px;
+  display: block;
+  padding: 12px 15px;
+  margin: 0.5rem;
+  border-radius: 1rem;
+  border: 2px solid rgb(8, 171, 230);
+}
+
+.homepage-container input:hover {
+  background-color: rgb(157, 209, 235);
+}
+
+.homepage-container button {
+  width: 100%;
+  font-size: 24px;
+  padding: 12px 15px;
+  border-radius: 1rem;
+}
